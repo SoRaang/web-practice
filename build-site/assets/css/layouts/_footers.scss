@@ -1,0 +1,15 @@
+/* _footers.scss */
+
+#footPrimary { // 메인 푸터
+    position: fixed;
+    inset: 0;
+    margin-block-start: auto;
+    height: fit-content;
+    padding-block: 1rem;
+    font-family: var(--ff-gothic-en);
+    font-size: var(--fnt-sm);
+    text-align: center;
+    opacity: .5;
+}
+
+/* _footers.scss */
